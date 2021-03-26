@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "introducao-componentes"
+    }
+  },
+  "defaultProject": "introducao-componentes",
+  "cli": {
+    "analytics": "8d5ad7f6-b3a8-4501-8904-5d0b5e7c36d6"
+  }
 }
